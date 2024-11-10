@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e8baaa6.css",
+    "main.js": "/static/js/main.fceb1dd6.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/PersonaImage.svg": "/static/media/PersonaImage.5646596ada81d5e81884dedf62444f98.svg",
+    "static/media/Logo.svg": "/static/media/Logo.04dbd1bef5fa2d5af38868274b73ab82.svg",
+    "static/media/settings.svg": "/static/media/settings.ec4cc30ee5db144cf4891a469d409ddd.svg",
+    "static/media/no-pin.svg": "/static/media/no-pin.ff956871a940ea5f0e9704986c6da1b0.svg",
+    "static/media/star.svg": "/static/media/star.7e6f1019cf310217ef08069b87792e17.svg",
+    "static/media/calendar.svg": "/static/media/calendar.565c3e983a0ee5550196395dfe0450a2.svg",
+    "static/media/Micro Button.svg": "/static/media/Micro Button.47c0198852522120d0d3727a1dca9689.svg",
+    "static/media/search.svg": "/static/media/search.ca0f0170c6cbaf9611be.svg",
+    "static/media/searchBlack.svg": "/static/media/searchBlack.bb3b06a61189a680d4e850065eebe80e.svg",
+    "index.html": "/index.html",
+    "static/media/filter.svg": "/static/media/filter.72fef515012e96c124e1.svg",
+    "static/media/more-vertical-kebab.svg": "/static/media/more-vertical-kebab.57af7f5402045b74136e0a28860933cd.svg",
+    "static/media/sidebar.svg": "/static/media/sidebar.9bbac4899771af34a136ea24bb7d3fdb.svg",
+    "static/media/Union.svg": "/static/media/Union.a3eb180df08e60ba34e2342d955d1684.svg",
+    "static/media/plus.svg": "/static/media/plus.77f6f3dad047f347de2ed981b5160816.svg",
+    "static/media/Galka.svg": "/static/media/Galka.ff642863dbe95b028054.svg",
+    "static/media/iconBlueAside.svg": "/static/media/iconBlueAside.5cd84d71b618bbb8240100543afdeaa9.svg",
+    "main.5e8baaa6.css.map": "/static/css/main.5e8baaa6.css.map",
+    "main.fceb1dd6.js.map": "/static/js/main.fceb1dd6.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8baaa6.css",
+    "static/js/main.fceb1dd6.js"
+  ]
+}
